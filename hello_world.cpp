@@ -4,6 +4,7 @@ void gps(){
 }
 void camera(){
     //implementa Camera
+    //bug fixed
 }
 void login(){
     //implementa login
