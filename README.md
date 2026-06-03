@@ -8,4 +8,6 @@ Cambios realizados por otro compañero.
 
 HTML modificado.
 
+Cambios para visualizar el git pull.
+
 Cambios para visualizar el git fetch.
