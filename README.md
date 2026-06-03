@@ -7,3 +7,5 @@ La funcionalidad de la cámara se ha terminado.
 Cambios realizados por otro compañero.
 
 HTML modificado.
+
+Cambios para visualizar el git fetch.
